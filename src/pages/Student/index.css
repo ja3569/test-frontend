@@ -1,0 +1,11 @@
+.information{
+    position: relative;
+}
+.courses{
+    position: relative;
+    top:50px;
+}
+.projects{
+    position: relative;
+    top:300px;
+}
